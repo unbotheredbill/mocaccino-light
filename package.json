@@ -2,10 +2,11 @@
   "name": "mocaccino-light",
   "displayName": "Mocaccino Light",
   "description": "A warm, coffee-inspired light theme with creamy browns and caramel tones",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "unbotheredbill",
   "author": "unbotheredbill",
   "license": "MIT",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.60.0"
   },

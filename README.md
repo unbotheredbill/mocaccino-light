@@ -6,7 +6,7 @@ A warm, coffee-inspired light theme for VS Code.
 
 ## Preview
 
-![Mocaccino Light Theme](image.png)
+![Mocaccino Light Theme](https://raw.githubusercontent.com/unbotheredbill/mocaccino-light/main/image.png)
 
 ## Installation
 
