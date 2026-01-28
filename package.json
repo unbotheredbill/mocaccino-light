@@ -1,0 +1,35 @@
+{
+  "name": "mocaccino-light",
+  "displayName": "Mocaccino Light",
+  "description": "A warm, coffee-inspired light theme with creamy browns and caramel tones",
+  "version": "1.0.0",
+  "publisher": "unbotheredbill",
+  "author": "unbotheredbill",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mocaccino Light",
+        "uiTheme": "vs",
+        "path": "./themes/mocaccino-light-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unbotheredbill/mocaccino-light"
+  },
+  "keywords": [
+    "theme",
+    "light",
+    "coffee",
+    "mocaccino",
+    "warm"
+  ]
+}
